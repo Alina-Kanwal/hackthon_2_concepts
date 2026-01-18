@@ -13,4 +13,25 @@ Skills tab banao jab:
 * 🧠 **Task me multiple steps / decisions hotay hon**
 * ⭐ **Tum same high-quality result future me bhi chahte ho**
 * ⏱️ **Time bachana ho aur consistency chahiye ho**
+👉 Agar task **1–2 dafa se zyada** use hona hai → **Skill banao**
+******************************************************************
+### **3️⃣ Kab Skills Banani Chahiye (Short)**
+Skills tab banao jab:
+* 🔁 **Same task baar-baar repeat hota ho**
+* 🧠 **Task me multiple steps / decisions hotay hon**
+* ⭐ **Tum same high-quality result future me bhi chahte ho**
+* ⏱️ **Time bachana ho aur consistency chahiye ho**
 👉 Agar task **1–2 dafa se zyada** use hona hai → **Skill banao** ✅
+********************************************************************
+✅ Skill
+Skills wo instructions hoti hain jo hum khud AI ko detay hain, jahan hum steps define kartay hain ke kaam kaise karna hai.
+frontend banao
+backend connect karo
+API integrate karo
+➡️ Yahan AI hamaray bataye huay steps follow karta hai.
+🤖 Subagent
+Subagent me hum sirf kaam assign kartay hain, lekin kaam kaise karna hai — ye decisions agent khud leta hai.
+“Project ke liye best architecture decide karo”
+“Authentic sources dhoondo aur validate karo”
+➡️ Yahan AI khud steps plan karta hai aur execute karta hai
+***********************************************************************
