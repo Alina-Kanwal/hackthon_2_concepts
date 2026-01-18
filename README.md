@@ -34,4 +34,16 @@ Subagent me hum sirf kaam assign kartay hain, lekin kaam kaise karna hai — ye 
 “Project ke liye best architecture decide karo”
 “Authentic sources dhoondo aur validate karo”
 ➡️ Yahan AI khud steps plan karta hai aur execute karta hai
+🔹 Skill = Steps hum dete hain
+🔹 Subagent = Steps agent khud decide karta hai
 ***********************************************************************
+🧠 Overall Concept (Boiled Down)
+📌 Pehle: Kaam complete karte thay
+📌 Ab: Apne workflows ko Reusable Patterns me convert karo
+📌 Result: Future me fast, consistent output + intelligence reuse — jo code reuse se bhi valuable hai.
+
+
+
+
+
+
